@@ -1,0 +1,26 @@
+{
+  "name": "MD5-Cracking-with-Dynamic-Clients",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/distributedComputingForTeams/MD5-Cracking-with-Dynamic-Clients.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/distributedComputingForTeams/MD5-Cracking-with-Dynamic-Clients/issues"
+  },
+  "homepage": "https://github.com/distributedComputingForTeams/MD5-Cracking-with-Dynamic-Clients#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "nodemon": "^1.11.0",
+    "socket.io": "^1.5.0"
+  }
+}
